@@ -168,4 +168,8 @@ article a:hover {
     text-decoration: underline;
 }
 
+.width-text {
+    width: 50%;
+}
+
 
